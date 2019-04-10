@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">Games Library</string>
-    <string name="API_KEY">AIzaSyAPs-ITmzYVnywaCK1pMsp4Gsr1EEf03qM</string>
-    <string name="CLIENT_ID">248300053169-u1u08vt6k2gs4ch486var2tl7l62ok4v.apps.googleusercontent.com </string>
-    <string name="SPREEDSHEET_ID">1rZm3tuX03L8Tz8PPYO_AnDhJMR63dmIQXae3TSMRIaM</string>
+    <string name="app_name">CCM Games Library</string>
+    <string name="api_key">AIzaSyAPs-ITmzYVnywaCK1pMsp4Gsr1EEf03qM</string>
+    <string name="oauth_client_id">248300053169-u1u08vt6k2gs4ch486var2tl7l62ok4v.apps.googleusercontent.com </string>
+    <string name="spreedsheet_id">1rZm3tuX03L8Tz8PPYO_AnDhJMR63dmIQXae3TSMRIaM</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_viewGames">View Games</string>
+    <string name="title_activity_game">GameActivity</string>
+
 </resources>
