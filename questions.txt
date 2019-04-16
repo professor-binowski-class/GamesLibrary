@@ -1,0 +1,8 @@
+-request page needs to be able to pre-fuill user's email address on top
+-request page needs to be able to actually send emails
+-help with constraint view formatting for homepage/request page
+-help with filtering using buttons, also getting searchview code to work in search fragment(button filter/search in same fragment?)
+-results page?(confused in general) clickable from the start or only when results are given?
+-how to incorporate future google sheets data into search fragment?
+-dashboard announcements: how to pull from website? adding manually?
+-home page login: how will it work?
