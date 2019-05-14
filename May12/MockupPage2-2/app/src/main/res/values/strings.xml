@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mockup Page</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_search">Search</string>
+    <string name="title_request">Request</string>
+    <string name="title_filter">Filter</string>
+    <string name="dialog_title">Game Genres</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear Selections</string>
+    <string name="open_dialog">🜄 Set Custom Filter</string>
+    <string name="roguelike">Roguelike</string>
+    <string name="role_playing">RP</string>
+    <string name="shooter">Shooter</string>
+    <string name="adventure">Adventure</string>
+    <string name="strategy">Strategy</string>
+    <string name="sports">Sports</string>
+    <string name="action">Action</string>
+    <string name="go">Apply</string>
+    <string name="board">Board</string>
+
+
+</resources>

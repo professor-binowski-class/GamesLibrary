@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="CustomStates">
+        <attr name="defaultState" format="boolean" />
+        <attr name="selectedState" format="boolean" />
+        <attr name="unselectedState" format="boolean" />
+    </declare-styleable>
+</resources>
